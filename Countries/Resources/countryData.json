@@ -1,0 +1,76 @@
+[
+    {
+        "name" : "Afghanistan",
+        "capital": "Kabul",
+        "id": 1,
+        "imageName" : "flag-of-Afghanistan"
+
+    },
+    {
+        "name" : "Finland",
+        "capital" : "Helsinki",
+        "id" : 2,
+        "imageName" : "flag-of-Finland"
+    },
+    {
+        "name" : "France",
+        "capital" : "Paris",
+        "id" : 3,
+        "imageName" : "flag-of-France"
+    },
+    {
+        "name" : "Russia",
+        "capital" : "Moscow",
+        "id" : 4,
+        "imageName" : "flag-of-Russia"
+    },
+    {
+        "name" : "Spain",
+        "capital" : "Madrid",
+        "id" : 5,
+        "imageName" : "flag-of-Spain"
+    },
+    {
+        "name" : "Mexico",
+        "capital" : "Mexico City",
+        "id" : 6,
+        "imageName" : "flag-of-Mexico"
+    },
+    {
+        "name" : "Germany",
+        "capital" : "Berlin",
+        "id" : 7,
+        "imageName" : "flag-of-Germany"
+    },
+    {
+        "name" : "Hungary",
+        "capital" : "Budapest",
+        "id" : 8,
+        "imageName" : "flag-of-Hungary"
+    },
+    {
+        "name" : "Italy",
+        "capital" : "Rome",
+        "id" : 9,
+        "imageName" : "flag-of-Italy"
+    },
+    {
+        "name" : "India",
+        "capital" : "New Delhi",
+        "id" : 10,
+        "imageName" : "flag-of-India"
+    },
+    {
+        "name" : "Japan",
+        "capital" : "Tokyo",
+        "id" : 11,
+        "imageName" : "flag-of-Japan"
+    },
+    {
+        "name" : "Nepal",
+        "capital" : "Kathmandu",
+        "id" : 12,
+        "imageName" : "flag-of-Nepal"
+    }
+    
+]
